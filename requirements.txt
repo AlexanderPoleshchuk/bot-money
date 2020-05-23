@@ -22,7 +22,7 @@ cycler==0.10.0
 decorator==4.4.2
 defer==1.0.6
 distro-info===0.18ubuntu0.18.04.1
-Django==3.0.2
+Django==3.0.3
 emoji==0.5.4
 fake-useragent==0.1.11
 Flask==0.12.2
